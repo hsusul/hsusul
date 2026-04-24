@@ -13,17 +13,12 @@ Focused on applied machine learning and production-grade systems.
 
 ## Selected Projects
 
-### Model-in-the-Loop
-End-to-end machine learning system with API backend, feedback loop, and retraining workflow.
-
 ### Debriev
 Legal citation verification system with structured parsing and evaluation pipeline.
 
 ### Lexical Drift
 Temporal language analysis pipeline for modeling semantic shift in text corpora.
 
-### Repo-RAG
-Repository-aware retrieval augmented generation system using vector search.
 
 ---
 
