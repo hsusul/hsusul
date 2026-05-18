@@ -11,17 +11,6 @@ Focused on applied machine learning and production-grade systems.
 
 ---
 
-## Selected Projects
-
-### Debriev
-Legal citation verification system with structured parsing and evaluation pipeline.
-
-### Lexical Drift
-Temporal language analysis pipeline for modeling semantic shift in text corpora.
-
-
----
-
 ## Technical Skills
 
 **Languages:** Python, TypeScript, SQL, JavaScript, C++, HTML/CSS, R  
