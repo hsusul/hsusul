@@ -1,7 +1,7 @@
 # Henry Su
 
 Computer Engineering student at Texas A&M University  
-Focused on applied machine learning and production-grade systems.
+Interested in mech interp, computer vision
 
 ---
 
