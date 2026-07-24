@@ -1,2 +1,3 @@
-Computer Engineering and Mathematics student at Texas A&M University.
-Intersted in mech interp, cv
+computer engineering and mathematics student at texas a&m university
+
+intersted in mech interp, cv
